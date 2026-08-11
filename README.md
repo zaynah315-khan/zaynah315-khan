@@ -1,3 +1,13 @@
+ 
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:171717,100:F7D774&height=220&section=header&text=Zaynah%20Khan&fontSize=55&fontColor=F7D774&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20React%20Learner%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&descColor=FFFFFF" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7D774&center=true&vCenter=true&width=650&lines=Building+beautiful+web+experiences+%E2%9C%A8;Learning+React+%26+modern+web+development+%F0%9F%9A%80;Exploring+Artificial+Intelligence+%F0%9F%A4%96" />
+</p>
+
  # ✨ Zaynah Khan
 
 ### 💻 Web Developer • React Learner • AI Enthusiast
