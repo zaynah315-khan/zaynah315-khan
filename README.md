@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=700&color=8B5CF6&center=true&vCenter=true&width=750&lines=Building+things.+Learning+constantly.+Creating+with+purpose.;Building+modern+web+experiences;Learning+React+and+JavaScript;Exploring+AI+and+Prompt+Engineering;Turning+ideas+into+real+projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=700&color=8B5CF6&center=true&vCenter=true&width=750&lines=Building+things.+Learning+constantly.+Creating+with+purpose.;Building+modern+web+experiences;Learning+React+and+JavaScript;Exploring+AI+and+Prompt+Engineering;Turning+ideas+into+real+projects" alt="Typing animation" />
 
 <br><br>
 
@@ -24,17 +24,7 @@ I'm **Zaynah Khan**, a web developer who enjoys transforming ideas into interact
 
 I'm currently focused on strengthening my **React and JavaScript** skills while exploring modern frontend development, AI, and prompt engineering.
 
-```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│   CODE        →        CREATE        →       │
-│                                              │
-│   LEARN       →        BUILD         →       │
-│                                              │
-│   EXPERIMENT  →        IMPROVE        →      │
-│                                              │
-╰──────────────────────────────────────────────╯
-```
+I believe the best way to learn is to **build, experiment, break things, fix them, and keep improving.**
 
 > **Learn • Build • Improve • Repeat**
 
@@ -48,9 +38,7 @@ I'm currently focused on strengthening my **React and JavaScript** skills while 
 
 <br><br>
 
-<img src="https://img.shields.io/badge/React.js-08090D?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/JavaScript-08090D?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/AI-08090D?style=for-the-badge&logoColor=8B5CF6" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=800&color=3B82F6&center=true&vCenter=true&width=650&lines=Learning+React.js;Strengthening+JavaScript;Exploring+TypeScript;Building+with+Supabase;Exploring+AI+and+modern+web+technologies" />
 
 </div>
 
@@ -64,11 +52,11 @@ I'm currently focused on strengthening my **React and JavaScript** skills while 
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite&theme=dark" />
 
-### Tools
+### Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs&theme=dark" />
 
-### Exploring
+### Currently Exploring
 
 <img src="https://skillicons.dev/icons?i=typescript,supabase,graphql&theme=dark" />
 
@@ -90,7 +78,7 @@ My first React project built with **React + Vite**, created to strengthen my und
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/↗%20LIVE%20DEMO-8B5CF6?style=for-the-badge\&logoColor=white)](https://first-react-app-lzfa.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/↗%20LIVE%20DEMO-8B5CF6?style=for-the-badge)](https://first-react-app-lzfa.vercel.app/)
 [![Repository](https://img.shields.io/badge/↗%20REPOSITORY-08090D?style=for-the-badge\&logo=github)](https://github.com/zaynah315-khan/FIRST-REACT-APP)
 
 </div>
@@ -106,7 +94,7 @@ A responsive productivity application for adding, completing, and managing tasks
 <div align="center">
 
 [![Live Demo](https://img.shields.io/badge/↗%20LIVE%20DEMO-8B5CF6?style=for-the-badge)](https://to-do-app-kohl-sigma.vercel.app/)
-[![GitHub](https://img.shields.io/badge/↗%20GITHUB-08090D?style=for-the-badge\&logo=github)](https://github.com/zaynah315-khan)
+[![GitHub Pages](https://img.shields.io/badge/↗%20GITHUB%20PAGES-08090D?style=for-the-badge\&logo=github)](https://zaynah315-khan.github.io/TO-DO-APP/)
 
 </div>
 
@@ -162,17 +150,17 @@ A meaningful project featuring the **99 Names of Allah**, allowing users to inte
 
 <div align="center">
 
-## 📈 `GITHUB ACTIVITY`
+# 📊 `GITHUB ACTIVITY`
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=zaynah315-khan&show_icons=true&hide_border=true&bg_color=08090D&title_color=8B5CF6&icon_color=3B82F6&text_color=F8FAFC&rank_icon=github" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=zaynah315-khan&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=08090D&title_color=8B5CF6&icon_color=3B82F6&text_color=F8FAFC&custom_title=Zaynah%20Khan's%20GitHub%20Stats" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaynah315-khan&layout=compact&hide_border=true&bg_color=08090D&title_color=8B5CF6&text_color=F8FAFC" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaynah315-khan&layout=compact&hide_border=true&langs_count=8&bg_color=08090D&title_color=8B5CF6&text_color=F8FAFC&custom_title=Most%20Used%20Languages" width="49%" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=zaynah315-khan&hide_border=true&background=08090D&ring=8B5CF6&fire=3B82F6&currStreakLabel=8B5CF6&sideLabels=F8FAFC&dates=94A3B8" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zaynah315-khan&bg_color=08090D&color=F8FAFC&line=8B5CF6&point=3B82F6&area=true&hide_border=true" width="95%" />
 
 </div>
 
@@ -182,21 +170,48 @@ A meaningful project featuring the **99 Names of Allah**, allowing users to inte
 
 ## 🌱 `CURRENT GOALS`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=3B82F6&center=true&vCenter=true&width=650&lines=Mastering+React.js;Strengthening+JavaScript;Improving+Frontend+Design;Exploring+TypeScript;Building+better+projects;Contributing+to+Open+Source" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=Mastering+React.js;Strengthening+JavaScript;Improving+Frontend+Design;Exploring+TypeScript;Building+better+projects;Contributing+to+Open+Source" />
 
 </div>
 
+<br>
+
+* ⚛️ Become more confident with React
+* 🟨 Strengthen JavaScript fundamentals
+* 🎨 Improve frontend design skills
+* 🌐 Build more responsive web experiences
+* 🤖 Explore AI and modern AI tools
+* 💡 Create unique portfolio projects
+* 🚀 Continue growing as a developer
+* 🤝 Contribute to open-source projects
+
 ---
 
-## 🎓 Certifications
-
 <div align="center">
+
+## 🎓 `CERTIFICATIONS`
+
+</div>
 
 |                Certification               |          Focus          |
 | :----------------------------------------: | :---------------------: |
 |   **Introduction to Prompt Engineering**   | AI & Prompt Engineering |
 | **Prompt Engineering with GitHub Copilot** | AI-assisted Development |
 |              **Generative AI**             | Artificial Intelligence |
+
+---
+
+<div align="center">
+
+## 💡 `MY PHILOSOPHY`
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Don't+just+learn+technology.;Build+with+it.;Every+project+is+a+step+forward." />
+
+<br><br>
+
+**Learn → Build → Experiment → Improve → Repeat**
 
 </div>
 
@@ -220,9 +235,9 @@ A meaningful project featuring the **99 Names of Allah**, allowing users to inte
 
 **Open to learning • Collaboration • Open Source**
 
-<br>
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile+%E2%9C%A8;Keep+building.+Keep+learning.+%F0%9F%92%9C" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=550&lines=Thanks+for+visiting+my+profile+%E2%9C%A8;Keep+building.+Keep+learning.+%F0%9F%92%9C" />
 
 </div>
 
