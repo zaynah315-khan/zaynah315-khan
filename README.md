@@ -167,21 +167,7 @@ Every project I create is another step toward becoming a stronger developer.
 I'm continuously learning through online courses, hands-on projects, and experimentation.
 
 ---
-
-## 🌱 Beyond Coding
-
-When I'm not coding, I enjoy creative activities such as:
-
-🧁 Baking
-🧶 Crochet
-🎨 Painting
-🌿 Mehndi Art
-💍 Jewellery Making
-🍳 Cooking
-
-Creativity plays a big role in how I approach development — especially when designing interfaces.
-
----
+ 
 
 ## 💬 Let's Connect
 
