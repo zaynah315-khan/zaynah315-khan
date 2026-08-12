@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=700&color=8B5CF6&center=true&vCenter=true&width=750&lines=Building+things.+Learning+constantly.+Creating+with+purpose.;Building+modern+web+experiences;Learning+React+and+JavaScript;Exploring+AI+and+Prompt+Engineering;Turning+ideas+into+real+projects" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=700&color=8B5CF6&center=true&vCenter=true&width=750&lines=Building+things.+Learning+constantly.+Creating+with+purpose.;Building+modern+web+experiences;Learning+React+and+JavaScript;Exploring+AI+and+Prompt+Engineering;Turning+ideas+into+real+projects" />
 
 <br><br>
 
@@ -34,6 +34,8 @@ I believe the best way to learn is to **build, experiment, break things, fix the
 
 ## 🚀 `CURRENTLY EXPLORING`
 
+<br>
+
 <img src="https://skillicons.dev/icons?i=react,js,tailwind,vite,typescript,supabase&theme=dark" />
 
 <br><br>
@@ -52,9 +54,13 @@ I believe the best way to learn is to **build, experiment, break things, fix the
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite&theme=dark" />
 
+<br>
+
 ### Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs&theme=dark" />
+
+<br>
 
 ### Currently Exploring
 
@@ -78,8 +84,13 @@ My first React project built with **React + Vite**, created to strengthen my und
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/↗%20LIVE%20DEMO-8B5CF6?style=for-the-badge)](https://first-react-app-lzfa.vercel.app/)
-[![Repository](https://img.shields.io/badge/↗%20REPOSITORY-08090D?style=for-the-badge\&logo=github)](https://github.com/zaynah315-khan/FIRST-REACT-APP)
+<a href="https://first-react-app-lzfa.vercel.app/">
+<img src="https://img.shields.io/badge/↗%20LIVE%20DEMO-8B5CF6?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/zaynah315-khan/FIRST-REACT-APP">
+<img src="https://img.shields.io/badge/↗%20REPOSITORY-08090D?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+</a>
 
 </div>
 
@@ -93,8 +104,13 @@ A responsive productivity application for adding, completing, and managing tasks
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/↗%20LIVE%20DEMO-8B5CF6?style=for-the-badge)](https://to-do-app-kohl-sigma.vercel.app/)
-[![GitHub Pages](https://img.shields.io/badge/↗%20GITHUB%20PAGES-08090D?style=for-the-badge\&logo=github)](https://zaynah315-khan.github.io/TO-DO-APP/)
+<a href="https://to-do-app-kohl-sigma.vercel.app/">
+<img src="https://img.shields.io/badge/↗%20LIVE%20DEMO-8B5CF6?style=for-the-badge" />
+</a>
+
+<a href="https://zaynah315-khan.github.io/TO-DO-APP/">
+<img src="https://img.shields.io/badge/↗%20GITHUB%20PAGES-08090D?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+</a>
 
 </div>
 
@@ -108,7 +124,9 @@ A responsive weather application designed around a clean and interactive user ex
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/↗%20LIVE%20DEMO-8B5CF6?style=for-the-badge)](https://zaynah315-khan.github.io/Weather-App/)
+<a href="https://zaynah315-khan.github.io/Weather-App/">
+<img src="https://img.shields.io/badge/↗%20LIVE%20DEMO-8B5CF6?style=for-the-badge" />
+</a>
 
 </div>
 
@@ -122,7 +140,9 @@ An interactive web application that calculates and displays grades through a sim
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/↗%20LIVE%20DEMO-8B5CF6?style=for-the-badge)](https://grade-giver-12-7.netlify.app/)
+<a href="https://grade-giver-12-7.netlify.app/">
+<img src="https://img.shields.io/badge/↗%20LIVE%20DEMO-8B5CF6?style=for-the-badge" />
+</a>
 
 </div>
 
@@ -130,11 +150,11 @@ An interactive web application that calculates and displays grades through a sim
 
 ### 🧮 Calculator App
 
-A responsive calculator with a clean, modern interface for performing everyday mathematical calculations.
+A responsive calculator with a clean and modern interface for performing everyday mathematical calculations.
 
 **HTML • CSS • JavaScript**
 
-`Responsive UI` `Interactive Buttons` `Modern Design`
+`Responsive UI` · `Interactive Buttons` · `Modern Design`
 
 ---
 
@@ -154,13 +174,11 @@ A meaningful project featuring the **99 Names of Allah**, allowing users to inte
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=zaynah315-khan&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=08090D&title_color=8B5CF6&icon_color=3B82F6&text_color=F8FAFC&custom_title=Zaynah%20Khan's%20GitHub%20Stats" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaynah315-khan&layout=compact&hide_border=true&langs_count=8&bg_color=08090D&title_color=8B5CF6&text_color=F8FAFC&custom_title=Most%20Used%20Languages" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zaynah315-khan&bg_color=08090D&color=F8FAFC&line=8B5CF6&point=3B82F6&area=true&hide_border=true&custom_title=Zaynah%20Khan's%20Contribution%20Graph&radius=12" width="95%" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zaynah315-khan&bg_color=08090D&color=F8FAFC&line=8B5CF6&point=3B82F6&area=true&hide_border=true" width="95%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=600&lines=Every+contribution+counts;Keep+building+%E2%80%A2+Keep+learning+%E2%80%A2+Keep+growing" />
 
 </div>
 
@@ -170,7 +188,7 @@ A meaningful project featuring the **99 Names of Allah**, allowing users to inte
 
 ## 🌱 `CURRENT GOALS`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=Mastering+React.js;Strengthening+JavaScript;Improving+Frontend+Design;Exploring+TypeScript;Building+better+projects;Contributing+to+Open+Source" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=3B82F6&center=true&vCenter=true&width=650&lines=Mastering+React.js;Strengthening+JavaScript;Improving+Frontend+Design;Exploring+TypeScript;Building+better+projects;Contributing+to+Open+Source" />
 
 </div>
 
@@ -207,7 +225,7 @@ A meaningful project featuring the **99 Names of Allah**, allowing users to inte
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Don't+just+learn+technology.;Build+with+it.;Every+project+is+a+step+forward." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Don't+just+learn+technology.;Build+with+it.;Every+project+is+a+step+forward." />
 
 <br><br>
 
